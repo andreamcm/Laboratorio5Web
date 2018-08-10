@@ -1,0 +1,30 @@
+/* 
+   Universidad del Valle de Guatemala 
+   Autora: Andrea Maria Cordon Mayen
+   Carne: 16076
+   Fecha: 10/08/2018
+   inputs.css 
+*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+.input {
+    height: 3rem;
+    margin: 1rem;
+    padding: 1rem;
+    font-family: Comfortaa;
+    
+}
+
+.input.small {
+    width: 5rem;
+}
+
+.input.medium {
+    width: 8rem;
+}
+
+.input.large {
+    width: 10rem;
+}

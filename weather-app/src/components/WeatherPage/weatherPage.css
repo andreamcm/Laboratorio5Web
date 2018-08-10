@@ -1,0 +1,41 @@
+/* 
+   Universidad del Valle de Guatemala 
+   Autora: Andrea Maria Cordon Mayen
+   Carne: 16076
+   Fecha: 10/08/2018
+   weatherPage.css 
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+.weatherPage {
+    overflow: hidden;
+    height: 100%;
+    width: 100%;
+    padding: 1rem; 
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    background: gray;
+}
+
+.upperBar {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    font-family: Comfortaa;
+    font-size: 4rem;
+    background: firebrick;
+}
+
+.title {
+    margin: 0;
+}
+
+.city {
+    margin: 0;
+}
