@@ -21,7 +21,7 @@ const POSSIBLE_ICONS = [
 const Icon = ({
   icon = 'sunny',
 }) => (
-  <div
+  <image
     className={
       `
         icon

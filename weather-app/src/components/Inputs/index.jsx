@@ -21,7 +21,7 @@ const POSSIBLE_SIZE = [
 const Input = ({
   size = 'medium',
 }) => (
-  <div
+  <input
     className={
       `
         input

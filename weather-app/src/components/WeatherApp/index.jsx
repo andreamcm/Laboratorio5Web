@@ -14,6 +14,7 @@ import WeatherPage from '../WeatherPage';
 import './weatherApp.css'
 
 
+
 class WeatherApp extends React.Component {
   constructor(props) {
     super(props);
@@ -22,6 +23,9 @@ class WeatherApp extends React.Component {
       
     };
   }
+
+  
+
 
   render() {
     //const { colors, currentLight } = this.state;
